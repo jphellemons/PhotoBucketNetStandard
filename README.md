@@ -1,4 +1,4 @@
-# PhotoBucketNetStandard
+# PhotoBucket.Net Standard
 PhotoBucket .Net Standard Library
 
 It's a clone of the old 4 to 6 year old https://github.com/maschall/Photobucket.NET So all credit should go to Maschall.
