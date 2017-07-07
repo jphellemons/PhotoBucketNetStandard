@@ -1,0 +1,7 @@
+C:\Users\leode\Documents\Visual Studio 2017\Projects\PhotoFuckedUs\PhotoBucketNetStandard\bin\Debug\netstandard1.4\PhotoBucketNetStandard.deps.json
+C:\Users\leode\Documents\Visual Studio 2017\Projects\PhotoFuckedUs\PhotoBucketNetStandard\obj\Debug\netstandard1.4\PhotoBucketNetStandard.csprojResolveAssemblyReference.cache
+C:\Users\leode\Documents\Visual Studio 2017\Projects\PhotoFuckedUs\PhotoBucketNetStandard\obj\Debug\netstandard1.4\PhotoBucketNetStandard.AssemblyInfo.cs
+C:\Users\leode\Documents\Visual Studio 2017\Projects\PhotoFuckedUs\PhotoBucketNetStandard\bin\Debug\netstandard1.4\PhotoBucketNetStandard.dll
+C:\Users\leode\documents\visual studio 2017\Projects\PhotoFuckedUs\PhotoBucketNetStandard\bin\Debug\netstandard1.4\PhotoBucketNetStandard.pdb
+C:\Users\leode\documents\visual studio 2017\Projects\PhotoFuckedUs\PhotoBucketNetStandard\obj\Debug\netstandard1.4\PhotoBucketNetStandard.dll
+C:\Users\leode\documents\visual studio 2017\Projects\PhotoFuckedUs\PhotoBucketNetStandard\obj\Debug\netstandard1.4\PhotoBucketNetStandard.pdb
